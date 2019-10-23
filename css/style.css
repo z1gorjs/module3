@@ -47,7 +47,7 @@
                
     .menu li{
             display: inline-block;
-            margin-right:  100px;
+            margin: 0 50px;
            
     }
     .menu li:last-child{margin-right: 0;}
@@ -70,6 +70,7 @@
      { 
         width: 420px;
         display: inline-block;
+        vertical-align: top;
     } 
         
     
